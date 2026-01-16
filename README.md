@@ -1,5 +1,5 @@
 # oxford-university-web-scraper
-Developed a Python-based web scraping tool to automatically extract undergraduate program and course information from Oxford University’s official website.
+This project is a Python-based web scraping tool developed to automatically extract undergraduate program and course information from Oxford University’s official website.
 
 Features:
 - Automated extraction of undergraduate program and course data
